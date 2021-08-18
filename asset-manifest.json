@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/minimalReactBlog/static/css/main.ea80a15a.chunk.css",
+    "main.js": "/minimalReactBlog/static/js/main.d7e7c640.chunk.js",
+    "main.js.map": "/minimalReactBlog/static/js/main.d7e7c640.chunk.js.map",
+    "runtime-main.js": "/minimalReactBlog/static/js/runtime-main.85900f45.js",
+    "runtime-main.js.map": "/minimalReactBlog/static/js/runtime-main.85900f45.js.map",
+    "static/css/2.4be38407.chunk.css": "/minimalReactBlog/static/css/2.4be38407.chunk.css",
+    "static/js/2.98078f79.chunk.js": "/minimalReactBlog/static/js/2.98078f79.chunk.js",
+    "static/js/2.98078f79.chunk.js.map": "/minimalReactBlog/static/js/2.98078f79.chunk.js.map",
+    "index.html": "/minimalReactBlog/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/minimalReactBlog/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.ea80a15a.chunk.css.map": "/minimalReactBlog/static/css/main.ea80a15a.chunk.css.map",
+    "static/js/2.98078f79.chunk.js.LICENSE.txt": "/minimalReactBlog/static/js/2.98078f79.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/minimalReactBlog/static/media/AtkinsonHyperlegible-Regular.013cf23c.ttf",
+    "static/media/logo.81457301.png": "/minimalReactBlog/static/media/logo.81457301.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85900f45.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.98078f79.chunk.js",
+    "static/css/main.ea80a15a.chunk.css",
+    "static/js/main.d7e7c640.chunk.js"
+  ]
+}
